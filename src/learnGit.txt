@@ -2,3 +2,7 @@ Name: Jimmy
 Age: 30
 Hometown: Brr
 Sex: Male
+Name:Wetstroke
+Age:31
+Hometown:Korat
+Sex:Hee
