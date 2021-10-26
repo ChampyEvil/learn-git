@@ -1,4 +1,4 @@
-Name: 
-Age:
-Hometown:
-Sex:
+Name:Wetstroke
+Age:31
+Hometown:Korat
+Sex:Hee
