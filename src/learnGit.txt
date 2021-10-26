@@ -1,4 +1,4 @@
-Name: 
-Age:
-Hometown:
-Sex:
+Name: Jimmy 
+Age: 30
+Hometown: Brr
+Sex: Male
