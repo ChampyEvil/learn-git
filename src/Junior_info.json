@@ -1,9 +1,23 @@
 {
-    "id": 11,
-    "data": {
-        "name": "junior",
-        "age": 30,
-        "hometown": "brr",
-        "sex": "male"
-    }
+    "member": [
+        {
+            "id": 11,
+            "data": {
+                "name": "junior",
+                "age": 30,
+                "hometown": "brr",
+                "sex": "male"
+            }
+        },
+        {
+            "id": 21,
+            "data": {
+            "name": "Champ",
+            "age": 29,
+            "hometown": "KS",
+            "sex": "Male"
+            }
+        }
+    ]
+
 }
