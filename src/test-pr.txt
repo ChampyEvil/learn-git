@@ -1,5 +1,5 @@
 learn-github
-learn-git
+learn-gitlab
 learn-git
 learn-git
 learn-git
