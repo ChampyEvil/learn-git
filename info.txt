@@ -1,3 +1,7 @@
-Name:
+Name: 
 Age:
 Mobile no:
+
+Name: Jatdilok
+Age: 12
+Mobile no: 0940144690
