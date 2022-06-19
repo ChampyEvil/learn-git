@@ -3,3 +3,5 @@ Test ignore existing file.
 test ignore with rm --cached
 
 test remove form gitignore
+
+test text file
