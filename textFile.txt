@@ -1,0 +1,3 @@
+Test ignore existing file.
+
+test ignore with rm --cached
